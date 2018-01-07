@@ -4,43 +4,35 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My name is Román Zapién-Campos, I am a PhD student at the Max Planck Institute for Evolutionary Biology (Plön, Germany).</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+Since I remember, I enjoy learning about nature and helping people. So I decided to become a Bioscientist, which allow me to do both.
 
-<h2>Skills</h2>
+During my BSc I felt attracted by the dynamics of biological systems, but by engineering as well. Then, during a microbial ecology modeling project during my BSc thesis, I realized that ecological systems have the potential to be engineered using frontier knowledge in Bioengineering. Thereafter, during my MRes thesis I addressed where to start to engineer a synthetic microbial mutualism. Currently, during my PhD I study the eco-evolutionary dynamics of the holobiont (host+microbiota) using theoretical approaches.
+</p>
+
+<p>In the future I want to integrate theoretical and experimental approaches in an Ecological Engineering framework.</p>
+
+<h2>Academic Experience</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>PhD Evolutionary Biology (2017 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisors: Arne Traulsen and Michael Sieber.</li><br>
+	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, England).<br>Supervisor: David Murrell.</li><br>
+	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Research Experience</h2>
 
+Current:
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Arne Traulsen (MPI - Plön, Germany) <a href="http://web.evolbio.mpg.de/~traulsen/">[website]</a></li>
+	<li>Michael Sieber (MPI - Plön, Germany) <a href="http://msieber.matryx.de/">[website]</a></li>
+</ul>
+
+Former:
+<ul>
+	<li>David Murrell (UCL - London, England) <a href="http://www.homepages.ucl.ac.uk/~ucbtdjm/Site/Murrell_Group.html">[website]</a></li>
+	<li>Moisés Santillán (CINVESTAV - Nuevo León, Mexico) <a href="http://www.monterrey.cinvestav.mx/msantillan/">[website]</a></li>
+	<li>Gabriela Olmedo-Álvarez (CINVESTAV - Guanajuato, Mexico) <a href="https://www.ira.cinvestav.mx/Investigaci%C3%B3n/DepartamentodeIngenier%C3%ADaGen%C3%A9tica/ProfesoresInvestigadores/DraOlmedoAlvarezGabriela/tabid/114/language/en-US/Default.aspx">[website]</a></li>
 </ul>
