@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/romanzapien/cv/raw/cv/cv.pdf
 
 url: https://romanzapien.github.io
 # your url: http://USERNAME.github.io
@@ -39,7 +39,7 @@ twitter: romanzapien
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: romanzapien-campos
+linkedin: romanzapien-campos
 # youtube: myyoutube
 # spotify: myspotify
 github: romanzapien
@@ -47,7 +47,7 @@ github: romanzapien
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: zapien@evolbio.mpg.de
