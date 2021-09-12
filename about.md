@@ -4,20 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>My name is Román Zapién-Campos, I am a PhD student at the Max Planck Institute for Evolutionary Biology (Plön, Germany).</p>
+<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbial biology — more concretely on their ecology and evolution. Although I have mostly relied on theoretical approaches, I am interested in combining these with experimental methods, aiming for dialogue between theory and experiments.</p> 
 
-<p>
-Since I remember, I enjoy learning about nature and helping people. So I decided to become a Bioscientist, which allow me to do both.
+<p>Currently, I am a PhD student at the Max Planck Institute for Evolutionary Biology (Plön, Germany). I work with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts.</p> 
 
-During my BSc I felt attracted by the dynamics of biological systems, but by engineering as well. Then, during a microbial ecology modeling project during my BSc thesis, I realized that ecological systems have the potential to be engineered using frontier knowledge in Bioengineering. Thereafter, during my MRes thesis I addressed where to start to engineer a synthetic microbial mutualism. Currently, during my PhD I study the eco-evolutionary dynamics of the holobiont (host+microbiota) using theoretical approaches.
-</p>
+<p>Before coming to Plön, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a cellular automaton to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in UCL (UK), I investigated how to engineer microbial interactions leading to a stable mutualism.</p> 
 
-<p>In the future I want to integrate theoretical and experimental approaches in an Ecological Engineering framework.</p>
+<p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
+
+<p>I am always up to chat about science. Please feel free to reach me out on my email or Twitter. Have a nice day! :)</p>
 
 <h2>Academic Experience</h2>
 
 <ul class="skill-list">
-	<li>PhD Evolutionary Biology (2017 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisors: Arne Traulsen and Michael Sieber.</li><br>
+	<li>PhD Evolutionary Biology (2017 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
 	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, England).<br>Supervisor: David Murrell.</li><br>
 	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.</li>
 </ul>
@@ -27,7 +27,6 @@ During my BSc I felt attracted by the dynamics of biological systems, but by eng
 Current:
 <ul>
 	<li>Arne Traulsen (MPI - Plön, Germany) <a href="http://web.evolbio.mpg.de/~traulsen/">[website]</a></li>
-	<li>Michael Sieber (MPI - Plön, Germany) <a href="http://msieber.matryx.de/">[website]</a></li>
 </ul>
 
 Former:
