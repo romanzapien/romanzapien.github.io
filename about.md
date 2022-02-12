@@ -18,7 +18,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>PostDoc (2022 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
-	<li>PhD Evolutionary Biology (2017 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
+	<li>PhD Evolutionary Biology (2017 - 2021).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
 	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, England).<br>Supervisor: David Murrell.</li><br>
 	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.</li>
 </ul>
