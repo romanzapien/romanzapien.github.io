@@ -32,7 +32,7 @@ Current:
 
 Former:
 <ul>
-	<li>David Murrell (UCL - London, England) <a href="http://www.homepages.ucl.ac.uk/~ucbtdjm/Site/Murrell_Group.html">[website]</a></li>
+	<li>David Murrell (UCL - London, England) <a href="http://www.homepages.ucl.ac.uk/~ucbtdjm/Site/Home.html">[website]</a></li>
 	<li>Moisés Santillán (CINVESTAV - Nuevo León, Mexico) <a href="http://www.monterrey.cinvestav.mx/msantillan/">[website]</a></li>
-	<li>Gabriela Olmedo-Álvarez (CINVESTAV - Guanajuato, Mexico) <a href="https://www.ira.cinvestav.mx/Investigaci%C3%B3n/DepartamentodeIngenier%C3%ADaGen%C3%A9tica/ProfesoresInvestigadores/DraOlmedoAlvarezGabriela/tabid/114/language/en-US/Default.aspx">[website]</a></li>
+	<li>Gabriela Olmedo-Álvarez (CINVESTAV - Guanajuato, Mexico) <a href="https://ira.cinvestav.mx/ingenieriagenetica/dra-gabriela-olmedo-alvarez/laboratorio-de-biologia-molecular-y-ecologia-microbiana/">[website]</a></li>
 </ul>
