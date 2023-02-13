@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/romanzapien/cv/raw/master/cv.pdf
+resume-url: https://nbviewer.org/github/romanzapien/cv/raw/master/cv.pdf
 
 url: https://romanzapien.github.io
 # your url: http://USERNAME.github.io
