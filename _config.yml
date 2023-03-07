@@ -34,15 +34,16 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: romanzapien
+email: zapien@evolbio.mpg.de
 google: TyfoFisAAAAJ
+github: romanzapien
+twitter: romanzapien
+linkedin: romanzapien-campos
+#facebook: myfacebook
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: romanzapien-campos
 # youtube: myyoutube
 # spotify: myspotify
-github: romanzapien
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +51,6 @@ github: romanzapien
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: zapien@evolbio.mpg.de
 
 authors:
     johndoe:
