@@ -4,17 +4,17 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbial biology — more concretely on their ecology and evolution. Although I have mostly relied on theoretical approaches, I am interested in combining these with experimental methods, aiming for dialogue between theory and experiments.</p> 
+<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbiology — more concretely on their ecology and evolution. Although I have mostly relied on mathematical modelling, I am interested in combining these with experimental methods, aiming for dialogue between theory and experiments.</p> 
 
-<p>Currently, I am a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I work with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts.</p> 
+<p>Currently, I am a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I work with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts – often called microbiome.</p> 
 
-<p>Before coming to Plön, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a cellular automaton to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in UCL (UK), I investigated how to engineer microbial interactions leading to a stable mutualism.</p> 
+<p>Before coming to Plön, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a spacial model to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in University College London (UK), using a model I investigated how microbial interactions could be engineered to sustain a stable mutualism.</p> 
 
 <p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
-<p>I am always up to chat about science. Please feel free to reach me out on my email or Twitter. Have a nice day! :)</p>
+<p>I am always up for a little chat, do not hesitate to get in touch. Have a nice day! :)</p>
 
-<h2>Academic Experience</h2>
+<h2>Academic Path</h2>
 
 <ul class="skill-list">
 	<li>PostDoc (2022 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
@@ -23,7 +23,7 @@ layout: page
 	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.<br><a href="https://github.com/romanzapien/bsc_thesis/blob/main/BScThesis_RomanZapienCampos.pdf">Link to thesis</a></li>
 </ul>
 
-<h2>Research Experience</h2>
+<h2>Research Groups</h2>
 
 Current:
 <ul>
