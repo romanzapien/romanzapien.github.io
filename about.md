@@ -20,7 +20,7 @@ layout: page
 	<li>PostDoc (2022 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
 	<li>PhD Evolutionary Biology (2017 - 2021).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.<br><a href="https://hdl.handle.net/21.11116/0000-000B-34D5-A">Link to thesis</a></li><br>
 	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, England).<br>Supervisor: David Murrell.<br><a href="https://github.com/romanzapien/mres_thesis/blob/main/MResThesis_RomanZapienCampos.pdf">Link to thesis</a></li><br>
-	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.<br><a href="https://github.com/romanzapien/bsc_thesis/blob/main/BScThesis_RomanZapienCampos.pdf">Link to thesis</a></li>
+	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.<br><a href="https://github.com/romanzapien/bsc_thesis/blob/main/BScThesis_RomanZapienCampos.pdf">Link to thesis (in Spanish)</a></li>
 </ul>
 
 <h2>Research Groups</h2>
