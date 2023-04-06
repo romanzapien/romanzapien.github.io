@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbiology — more concretely on their ecology and evolution. Although I have mostly relied on mathematical modelling, I am interested in combining these with experimental methods, aiming for dialogue between theory and experiments.</p> 
+<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbiology — more concretely on their ecology and evolution. Although I have mostly relied on mathematical modelling, I am interested in combining these with experimental methods, aiming for dialogue between them.</p> 
 
-<p>Currently, as a PostDoc with Wenying Shou in the Centre for Life's Origins and Evolution (CLOE) at University College London (UK), I aim to develop quantitative approaches for microbial communities.</p> 
+<p>Currently, as a PostDoc with Wenying Shou in the Centre for Life's Origins and Evolution (CLOE) at University College London (UK), I aim to develop quantitative approaches.</p> 
 
-<p>Previously, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I worked with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts – often called microbiome.</p> 
+<p>Previously, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I worked with Arne Traulsen in the Evolutionary Theory department, studying microbes associated with hosts – often called microbiome.</p> 
 
 <p>Before my PhD, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a spacial model to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in University College London (UK), using a model I investigated how microbial interactions could be engineered to sustain a stable mutualism.</p> 
 
