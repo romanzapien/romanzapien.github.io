@@ -14,8 +14,7 @@ layout: page
 
 <p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
-<p>I am always up for a little chat, do not hesitate to get in touch.<\br>
-Have a nice day! :)</p>
+<p>I am always up for a little chat, do not hesitate to get in touch.<br>Have a nice day! :)</p>
 
 <h2>Academic Path</h2>
 
