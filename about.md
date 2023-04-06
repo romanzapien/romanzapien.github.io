@@ -6,9 +6,11 @@ layout: page
 
 <p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in microbiology — more concretely on their ecology and evolution. Although I have mostly relied on mathematical modelling, I am interested in combining these with experimental methods, aiming for dialogue between theory and experiments.</p> 
 
-<p>Currently, I am a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I work with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts – often called microbiome.</p> 
+<p>Currently, I am a PostDoc at University College London (London, UK). I work with Wenying in the Centre for Life's Origins and Evolution, studying the ecology and evolution of microbial communities.</p> 
 
-<p>Before coming to Plön, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a spacial model to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in University College London (UK), using a model I investigated how microbial interactions could be engineered to sustain a stable mutualism.</p> 
+<p>Previously, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD (December 2021). I worked with Arne Traulsen in the Evolutionary Theory department, studying the ecology and evolution of microbes associated with hosts – often called microbiome.</p> 
+
+<p>Before my PhD, I was involved in other research projects. For my BSc thesis in IPN (Mexico), I worked on a spacial model to investigate the preservation of microbial diversity in highly antagonistic communities. After this, during my MRes thesis in University College London (UK), using a model I investigated how microbial interactions could be engineered to sustain a stable mutualism.</p> 
 
 <p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
@@ -17,22 +19,24 @@ layout: page
 <h2>Academic Path</h2>
 
 <ul class="skill-list">
-	<li>PostDoc (2022 - ongoing).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
+	<li>PostDoc (04.2023 - ongoing).<br>University College London - CLOE (London, United Kingdom).<br>Supervisor: Wenying Shou.</li><br>
+	<li>PostDoc (01.2022 - 03.2023).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
 	<li>PhD Evolutionary Biology (2017 - 2021).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.<br><a href="https://hdl.handle.net/21.11116/0000-000B-34D5-A">Link to thesis</a></li><br>
-	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, England).<br>Supervisor: David Murrell.<br><a href="https://github.com/romanzapien/mres_thesis/blob/main/MResThesis_RomanZapienCampos.pdf">Link to thesis</a></li><br>
-	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Guanajuato, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.<br><a href="https://github.com/romanzapien/bsc_thesis/blob/main/BScThesis_RomanZapienCampos.pdf">Link to thesis (in Spanish)</a></li>
+	<li>MRes Biosciences (2015 - 2016).<br>University College London (London, United Kingdom).<br>Supervisor: David Murrell.<br><a href="https://github.com/romanzapien/mres_thesis/blob/main/MResThesis_RomanZapienCampos.pdf">Link to thesis</a></li><br>
+	<li>BSc Biotechnological Engineering (2009 - 2013).<br>National Polytechnic Institute (Silao, Mexico).<br>Supervisors: Gabriela Olmedo-Álvarez and Moisés Santillan.<br><a href="https://github.com/romanzapien/bsc_thesis/blob/main/BScThesis_RomanZapienCampos.pdf">Link to thesis (in Spanish)</a></li>
 </ul>
 
 <h2>Research Groups</h2>
 
 Current:
 <ul>
-	<li>Arne Traulsen (MPI - Plön, Germany) <a href="http://web.evolbio.mpg.de/~traulsen/">[website]</a></li>
+	<li>Wenying Shou (UCL - London, United Kingdom) <a href="https://shoulab.wixsite.com/main">[website]</a></li>
 </ul>
 
 Former:
 <ul>
-	<li>David Murrell (UCL - London, England) <a href="http://www.homepages.ucl.ac.uk/~ucbtdjm/Site/Home.html">[website]</a></li>
-	<li>Moisés Santillán (CINVESTAV - Nuevo León, Mexico) <a href="http://www.monterrey.cinvestav.mx/msantillan/">[website]</a></li>
-	<li>Gabriela Olmedo-Álvarez (CINVESTAV - Guanajuato, Mexico) <a href="https://ira.cinvestav.mx/ingenieriagenetica/dra-gabriela-olmedo-alvarez/laboratorio-de-biologia-molecular-y-ecologia-microbiana/">[website]</a></li>
+	<li>Arne Traulsen (MPI - Plön, Germany) <a href="http://web.evolbio.mpg.de/~traulsen/">[website]</a></li>
+	<li>David Murrell (UCL - London, United Kingdom) <a href="http://www.homepages.ucl.ac.uk/~ucbtdjm/Site/Home.html">[website]</a></li>
+	<li>Moisés Santillán (CINVESTAV - Monterrey, Mexico) <a href="http://www.monterrey.cinvestav.mx/msantillan/">[website]</a></li>
+	<li>Gabriela Olmedo-Álvarez (CINVESTAV - Irapuato, Mexico) <a href="https://ira.cinvestav.mx/ingenieriagenetica/dra-gabriela-olmedo-alvarez/laboratorio-de-biologia-molecular-y-ecologia-microbiana/">[website]</a></li>
 </ul>
