@@ -19,7 +19,7 @@ layout: page
 <h2>Academic Path</h2>
 
 <ul class="skill-list">
-	<li>PostDoc (04.2023 - ongoing).<br>University College London - CLOE (London, United Kingdom).<br>Supervisor: Wenying Shou.</li><br>
+	<li>PostDoc (04.2023 - ongoing).<br>University College London (London, United Kingdom).<br>Supervisor: Wenying Shou.</li><br>
 	<li>PostDoc (01.2022 - 03.2023).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.</li><br>
 	<li>PhD Evolutionary Biology (09.2017 - 12.2021).<br>Max Planck Institute for Evolutionary Biology (Plön, Germany).<br>Supervisor: Arne Traulsen.<br><a href="https://hdl.handle.net/21.11116/0000-000B-34D5-A">Link to thesis</a></li><br>
 	<li>MRes Biosciences (09.2015 - 09.2016).<br>University College London (London, United Kingdom).<br>Supervisor: David Murrell.<br><a href="https://github.com/romanzapien/mres_thesis/blob/main/MResThesis_RomanZapienCampos.pdf">Link to thesis</a></li><br>
