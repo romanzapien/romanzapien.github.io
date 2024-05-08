@@ -1,6 +1,6 @@
 # main text of home
 name: Román Zapién-Campos
-bio: MSCA and UKVI PostDoc Fellow at University College London<br>(ecology and evolution of microbes)
+bio: MSCA & UKVI PostDoc Fellow at UCL<br>(microbial ecology and evolution)
 
 # twitter summary info
 description: Román Zapién-Campos personal website
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-email: ucbtruz@ucl.ac.uk
+email: roman.zapien@ucl.ac.uk
 google: TyfoFisAAAAJ
 github: romanzapien
 twitter: romanzapien
