@@ -6,11 +6,11 @@ layout: page
 
 <p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in the ecology and evolution of microbial communities. Although I have primarily relied on mathematical modeling, I am interested in combining this with experimental methods, aiming for dialogue between them.</p> 
 
-<p>Currently, as a PostDoc with Wenying Shou in the Centre for Life's Origins and Evolution (CLOE) at University College London (UK), I aim to develop quantitative approaches.</p> 
+<p>Currently, I develop quantitative approaches as an MSCA & UKRI PostDoc Fellow with Wenying Shou in the Centre for Life's Origins and Evolution (CLOE) at University College London (UK).</p> 
 
 <p>Previously, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD. I worked with Arne Traulsen in the Evolutionary Theory department, studying microbes associated with hosts – often called microbiome.</p> 
 
-<p>Before my PhD, for my BSc thesis in IPN (Mexico), I developed a spatial model to investigate the preservation of microbial diversity in highly antagonistic communities. Afterwards, during my MRes thesis at University College London (UK), I modeled how microbial interactions could be engineered to sustain a stable mutualism.</p> 
+<p>Before my PhD, for my BSc thesis in IPN (Mexico), I developed a spatial model to investigate the preservation of microbial diversity in highly antagonistic communities. Afterward, during my MRes thesis at University College London (UK), I modeled how microbial interactions could be engineered to sustain a stable mutualism.</p> 
 
 <p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
