@@ -11,6 +11,12 @@
         </a>
     {% endif %}
 
+    {% if site.bluesky %}
+        <a class="link" data-title="bluesky.app/{{ site.bluesky }}" href="https://bsky.app/profile/{{ site.bluesky }}.bsky.social" target="_blank">
+            <svg class="icon icon-bluesky"><use xlink:href="#icon-bluesky"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.google %}
         <a class="link" data-title="https://scholar.google.com/citations?user={{ site.google }}" href="https://scholar.google.com/citations?user={{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
