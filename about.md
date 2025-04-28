@@ -14,7 +14,7 @@ layout: page
 
 <p>A complete list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
-<p>Please do not hesitate to get in touch to talk about research or outreach activities. Have a great day! :)</p>
+<p>Please do not hesitate to get in touch to talk about research or <b>outreach activities</b>. Have a great day! :)</p>
 
 <h2>Academic Path</h2>
 
