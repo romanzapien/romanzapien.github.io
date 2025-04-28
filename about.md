@@ -4,17 +4,17 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! My name is Román Zapién-Campos. I am a researcher interested in the ecology and evolution of microbial communities. Although I have primarily relied on mathematical modeling, I am interested in combining this with experimental methods, aiming for dialogue between them.</p> 
+<p>Hi there! My name is Román Zapién-Campos. I am a Marie Skłodowska-Curie Actions & UKRI Postdoctoral Fellow at University College London interested in the ecology and evolution of microbial communities. Although my work has primarily relied on mathematical modelling of dynamical systems (specially stochastic models), currently, I combine this with laboratory experiments and analysis of published data.</p> 
 
-<p>Currently, I develop quantitative approaches as an MSCA & UKRI PostDoc Fellow with Wenying Shou in the Centre for Life's Origins and Evolution (CLOE) at University College London (UK).</p> 
+<p>Working with Wenying Shou at UCL, I develop methods enabling the inference of parameters from data. I am particularly interested in inference from incomplete microbial time series data, e.g. where cells can be measured but chemicals can not. As it turns out, missing variables are a headache in microbiology, but also across the biological sciences and beyond. Our theoretical works shows that tracking statistical information beyond averages (e.g. variances, co-variances, etc) can enable the inference of parameters (technically this is called <a href="https://en.wikipedia.org/wiki/Structural_identifiability">structural identifiability</a>). This is great news – we might not need more data just to analyse/model it differently! The combination of theorey and experiments have sparked my interest in experimental design applied to dynamical systems and automated model discovery as part of a broader quantitative approach to microbiology.</p>
 
-<p>Previously, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD. I worked with Arne Traulsen in the Evolutionary Theory department, studying microbes associated with hosts – often called microbiome.</p> 
+<p>Before joining UCL, I was a PostDoc at the Max Planck Institute for Evolutionary Biology (Plön, Germany), where I also completed my PhD and learnt all I know about stochastic modelling. I worked with Arne Traulsen in the Theoretical Biology department, closely collaborating with the CRC1182: Origin and Function of Metaorganisms, where I developed theoretical models of microbiome ecology accross the tree of life.</p> 
 
-<p>Before my PhD, for my BSc thesis in IPN (Mexico), I developed a spatial model to investigate the preservation of microbial diversity in highly antagonistic communities. Afterward, during my MRes thesis at University College London (UK), I modeled how microbial interactions could be engineered to sustain a stable mutualism.</p> 
+<p>Earlier in my career, I also investigated the persistence of microbial diversity in highly antagonistic communities using cellular automata (BSc thesis in IPN in Mexico with Gabriela Olmedo-Álvarez and Moisés Santillán) and theoretically investigated the requirements to sustain microbial mutualistic interactions in over long timescales in a spatial model (MRes thesis at UCL with David Murrell).</p> 
 
-<p>A list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
+<p>A complete list of my publications can be found <a href="https://scholar.google.com/citations?user=TyfoFisAAAAJ&hl=en">here</a>.</p> 
 
-<p>I am always up for a little chat, do not hesitate to get in touch.<br>Have a nice day! :)</p>
+<p>Do not hesitate to get in touch. Have a great day! :)</p>
 
 <h2>Academic Path</h2>
 
