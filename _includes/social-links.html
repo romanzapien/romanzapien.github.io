@@ -1,4 +1,35 @@
 <div class="social-links">
+
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.google %}
+        <a class="link" data-title="https://scholar.google.com/citations?user={{ site.google }}" href="https://scholar.google.com/citations?user={{ site.google }}" target="_blank">
+            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.bluesky %}
+        <a class="link" data-title="bluesky.app/{{ site.bluesky }}" href="https://bsky.app/profile/{{ site.bluesky }}.bsky.social" target="_blank">
+            <svg class="icon icon-bluesky"><use xlink:href="#icon-bluesky"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
@@ -10,19 +41,7 @@
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
         </a>
     {% endif %}
-
-    {% if site.bluesky %}
-        <a class="link" data-title="bluesky.app/{{ site.bluesky }}" href="https://bsky.app/profile/{{ site.bluesky }}.bsky.social" target="_blank">
-            <svg class="icon icon-bluesky"><use xlink:href="#icon-bluesky"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.google %}
-        <a class="link" data-title="https://scholar.google.com/citations?user={{ site.google }}" href="https://scholar.google.com/citations?user={{ site.google }}" target="_blank">
-            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
-        </a>
-    {% endif %}
-
+    
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
@@ -32,12 +51,6 @@
     {% if site.pinterest %}
         <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
         </a>
     {% endif %}
 
@@ -56,12 +69,6 @@
     {% if site.lastfm %}
         <a class="link" data-title="last.fm/user/{{ site.lastfm }}" href="https://last.fm/user/{{ site.lastfm }}" target="_blank">
             <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>   
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
     
@@ -98,12 +105,6 @@
     {% if site.lanyrd %}
         <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
 </div>
